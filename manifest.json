@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Outgoing Links in Default Container",
+  "version": "0.1",
+  "description": "When in a container, open outgoing links with different domains in the default container.",
+  "permissions": [
+    "<all_urls>",
+    "cookies",
+    "webRequestBlocking",
+    "webRequest"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
+}

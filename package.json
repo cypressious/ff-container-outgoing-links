@@ -1,0 +1,7 @@
+{
+  "name": "ff-container-outgoing-links",
+  "version": "0.1.0",
+  "devDependencies": {
+    "web-ext-types": "^3.1.0"
+  }
+}
